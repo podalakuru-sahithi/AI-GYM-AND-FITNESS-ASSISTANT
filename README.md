@@ -1,73 +1,130 @@
-# Welcome to your Lovable project
+<img width="1916" height="951" alt="Screenshot 2026-01-15 173352" src="https://github.com/user-attachments/assets/dbc984b7-e239-4a6e-a708-f084ec771e16" />AI Gym Fitness Assistant
+## Major Project (MCA)
+## Student Name: Sahithi Podalakuru
+## Course: Master of Computer Applications (MCA)
+## Academic Year: 2025–2026
+## Project Description
 
-## Project info
+The AI Gym Fitness Assistant is a smart web-based application designed to help users plan workouts, track fitness goals, and receive AI-powered fitness guidance.
+This project focuses on combining Artificial Intelligence with modern web technologies to deliver a personalized fitness experience.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+The application assists users by:
 
-## How can I edit this code?
+Suggesting workouts
 
-There are several ways of editing your application.
+Providing fitness-related responses
 
-**Use Lovable**
+Managing user interaction through a clean UI
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Storing and handling data efficiently
 
-Changes made via Lovable will be committed automatically to this repo.
+## Objectives
 
-**Use your preferred IDE**
+To design an intelligent fitness assistant using AI concepts
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+To build a responsive and user-friendly web application
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+To apply full-stack development skills learned during MCA
 
-Follow these steps:
+To integrate frontend, backend, and database technologies
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## Technologies Used
+# Frontend
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+React.js
 
-# Step 3: Install the necessary dependencies.
-npm i
+TypeScript
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Tailwind CSS
+
+Vite
+
+ # Backend
+
+Node.js
+
+Supabase (Database & Authentication)
+
+Tools & Platforms
+
+GitHub (Version Control)
+
+Lovable.dev (Initial project scaffolding)
+
+VS Code
+
+## Project Structure
+AI-Gym-Fitness-Assistant/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│
+├── supabase/
+├── package.json
+├── index.html
+├── README.md
+
+## Installation & Execution
+
+Clone the repository:
+
+git clone https://github.com/podalakuru-sahithi/AI-GYM-AND-FITNESS-ASSISTANT.git
+
+Navigate to the project folder:
+
+cd AI-Gym-Fitness-Assistant
+
+
+# Install dependencies:
+
+npm install
+
+Run the application:
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+## Features
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+AI-based fitness assistance
 
-**Use GitHub Codespaces**
+Responsive user interface
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Modular component structure
 
-## What technologies are used for this project?
+Secure authentication using Supabase
 
-This project is built with:
+Easy scalability
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## screenshots
 
-## How can I deploy this project?
+<img width="1916" height="951" alt="Screenshot 2026-01-15 173352" src="https://github.com/user-attachments/assets/a7a78f3d-38dc-4fa2-ba98-f540420a3b62" />
+<img width="1914" height="949" alt="Screenshot 2026-01-15 173614" src="https://github.com/user-attachments/assets/4b9a302e-20df-4784-a5c1-3eecf3232300" />
+<img width="1896" height="950" alt="Screenshot 2026-01-15 173702" src="https://github.com/user-attachments/assets/035b68a6-5232-4f87-9fc2-ff651d2fc4da" />
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## Learning Outcomes:
+Practical experience with AI-based applications
 
-## Can I connect a custom domain to my Lovable project?
+Improved understanding of full-stack development
 
-Yes, you can!
+Hands-on experience with GitHub and project deployment
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Application of MCA curriculum concepts in a real project
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## Conclusion
+
+The AI Gym Fitness Assistant successfully demonstrates the use of AI and web technologies to build a real-world application. This project fulfills the requirements of the MCA Major Project and showcases practical implementation skills.
+
+## Declaration
+
+I hereby declare that this project is an original work carried out by me as part of my MCA Major Project.
+
+## Author
+
+Sahithi Podalakuru
+MCA Student
+
+
+
