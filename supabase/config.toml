@@ -1,0 +1,7 @@
+project_id = "uhnjykyvpvgioxpvbuig"
+
+[functions.ai-dietician]
+verify_jwt = false
+
+[functions.gym-buddy]
+verify_jwt = false
